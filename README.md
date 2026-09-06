@@ -117,8 +117,6 @@ I am an AI Researcher and Systems Architect focused on engineering secure, high-
 <img src="./assets/streak.svg" alt="GitHub Streak" />
 
 <br><br>
-<code>▓▒░ [ ACTIVITY MATRIX ] ░▒▓</code>
-<br><br>
 
 <img src="https://raw.githubusercontent.com/priyanshu-ogdev/priyanshu-ogdev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" style="max-width: 850px;" />
 
