@@ -1,0 +1,38 @@
+name: Sync System Telemetry
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  sync-telemetry:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Crucial: Allows the action to commit the new SVGs
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Fetch Core Stats SVG
+        run: curl -s "https://github-stats-extended.vercel.app/api?username=priyanshu-ogdev&show_icons=true&hide_border=true&bg_color=07090F&title_color=0EA5E9&icon_color=EC4899&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" > assets/stats.svg
+
+      - name: Fetch Top Languages SVG
+        run: curl -s "https://github-stats-extended.vercel.app/api/top-langs/?username=priyanshu-ogdev&layout=compact&hide_border=true&bg_color=07090F&title_color=0EA5E9&text_color=94A3B8&langs_count=8" > assets/top-langs.svg
+
+      - name: Fetch Streak SVG
+        run: curl -s "https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-ogdev&hide_border=true&background=07090F&ring=0EA5E9&fire=EC4899&currStreakLabel=6366F1&currStreakNum=E2E8F0&sideLabels=94A3B8&sideNums=E2E8F0&dates=94A3B8" > assets/streak.svg
+
+      - name: Fetch Contribution Graph SVG
+        run: curl -s "https://ghchart.rshah.org/0EA5E9/priyanshu-ogdev" > assets/contributions.svg
+
+      - name: Commit and Push Offline SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: synchronize offline telemetry SVGs"
+          file_pattern: assets/*.svg
