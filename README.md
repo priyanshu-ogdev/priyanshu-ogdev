@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Role-AI/ML_Engineer-0EA5E9?style=for-the-badge&logo=git&logoColor=white&labelColor=07090F" alt="Role" />
   <img src="https://img.shields.io/badge/Domain-Machine_Learning_%26_Systems-EC4899?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=07090F" alt="Domain" />
-  <img src="https://img.shields.io/badge/Location-Kolkata,_IN-6366F1?style=for-the-badge&logo=location_on&logoColor=white&labelColor=07090F" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Kolkata,_IN-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=07090F" alt="Location" />
 </p>
 
 </div>
@@ -16,7 +16,7 @@
 
 ## ◈ Professional Summary & Core Competencies
 
-I am an AI Researcher and Systems Architect focused on engineering secure, high-performance infrastructure. My work emphasizes hardware-aware execution, privacy-first deployment models, and mathematically proven stability for production-grade machine learning pipelines.
+I am an AI Researcher and Systems Architect focused on engineering secure, high-performance computational infrastructure. My research and development prioritize hardware-aware execution, privacy-preserving deployment models, and mathematically verified stability for production-scale machine learning pipelines.
 
 <br>
 
@@ -25,28 +25,28 @@ I am an AI Researcher and Systems Architect focused on engineering secure, high-
   <tr>
     <td width="50%" align="center" valign="top">
       <br>
-      <b>[01] ML Infrastructure & Deployment</b><br>
-      <sub>Architecting bare-metal SLM/LLM environments, parameter-efficient tuning, and hardware-aware quantization for enterprise deployment.</sub>
+      <b>[01] ML Infrastructure & Acceleration</b><br>
+      <sub>Architecting low-latency SLM/LLM runtimes, parameter-efficient tuning pipelines, and hardware-aware quantization for high-throughput deployment.</sub>
       <br><br>
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <b>[02] Security & Privacy-First AI</b><br>
-      <sub>Enforcing zero-remote inference boundaries, cryptographic isolation, and privacy-preserving generative pipelines.</sub>
+      <b>[02] Security & Privacy-First Architectures</b><br>
+      <sub>Enforcing zero-remote inference boundaries, cryptographic workload isolation, and deterministic schema-constrained generation.</sub>
       <br><br>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
       <br>
-      <b>[03] Autonomous Systems (RAG)</b><br>
-      <sub>Engineering multi-modal autonomous swarms, deterministic state-machines, and AST-aware retrieval topologies.</sub>
+      <b>[03] Autonomous Systems & Agentic RAG</b><br>
+      <sub>Engineering multi-agent coordination frameworks, fault-tolerant state orchestration, and AST-aware code intelligence topologies.</sub>
       <br><br>
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <b>[04] Continuous Control & RL</b><br>
-      <sub>Training adversarial skill embeddings, mixture-of-experts models, and physics-driven spatial simulations.</sub>
+      <b>[04] Continuous Control & Simulation</b><br>
+      <sub>Developing adversarial skill learning algorithms, mixture-of-experts architectures, and physics-constrained kinematic simulations.</sub>
       <br><br>
     </td>
   </tr>
@@ -91,7 +91,7 @@ I am an AI Researcher and Systems Architect focused on engineering secure, high-
 </p>
 
 <br>
-<h4 align="center">Infrastructure & Data Stores</h4>
+<h4 align="center">Infrastructure & Distributed Storage</h4>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> &nbsp;&nbsp;
@@ -109,17 +109,16 @@ I am an AI Researcher and Systems Architect focused on engineering secure, high-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshu-ogdev&show_icons=true&hide_border=true&bg_color=07090F&title_color=0EA5E9&icon_color=EC4899&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-ogdev&layout=compact&hide_border=true&bg_color=07090F&title_color=0EA5E9&text_color=94A3B8&langs_count=8" alt="Top Languages" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-ogdev&hide_border=true&background=07090F&ring=0EA5E9&fire=EC4899&currStreakLabel=6366F1&currStreakNum=E2E8F0&sideLabels=94A3B8&sideNums=E2E8F0&dates=94A3B8" alt="GitHub Streak" />
+<img src="./assets/stats.svg" alt="GitHub Stats" />
+<img src="./assets/top-langs.svg" alt="Top Languages" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-ogdev&bg_color=07090F&color=94A3B8&line=6366F1&point=0EA5E9&hide_border=true&radius=8" alt="Contribution Graph" />
+<img src="./assets/streak.svg" alt="GitHub Streak" />
+
+<br>
+
+<img src="./assets/contributions.svg" alt="Contribution Graph" />
 
 </div>
 
