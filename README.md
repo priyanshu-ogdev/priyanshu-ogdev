@@ -95,7 +95,7 @@ I am an AI Researcher and Systems Architect focused on engineering secure, high-
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
@@ -152,7 +152,7 @@ I am an AI Researcher and Systems Architect focused on engineering secure, high-
 <br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="" width="100%" style="max-width: 850px;" />
+  <img src="https://raw.githubusercontent.com/priyanshu-ogdev/priyanshu-ogdev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" style="max-width: 850px;" />
 </div>
 
 <br>
