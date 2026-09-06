@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="Priyanshu Roy - AI/ML Engineer" width="100%" />
+<img src="./header.svg" alt="Priyanshu Roy - AI/ML Engineer" style="max-width: 850px; width: 100%; height: auto;" />
 
 <br><br>
 
@@ -16,37 +16,37 @@
 
 ## ◈ Operational Directives
 
-I architect intelligent systems at the intersection of deep learning, distributed computing, and bare-metal infrastructure. The objective is to build ecosystems where mathematical complexity is strictly constrained by execution parameters, ensuring operational certainty under strict latency, memory, and privacy thresholds.
-
-<br>
-
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🧠 Intelligence Architecture
-Focusing on parameter-efficient tuning schemas, constrained decoding paradigms, and zero-parameter compression techniques. Priority lies in minimizing catastrophic forgetting during autonomous continuous adaptation.
+<br>
+<code>[ MODULE_01 ]</code> <b>INTELLIGENCE ARCHITECTURE</b><br><br>
+<i>Parameter-efficient tuning • Zero-parameter compression • Continuous autonomous adaptation</i><br>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### ⚡ Distributed Topologies
-Architecting zero-trust IPC pipelines, decentralized multi-agent swarms, and hardware-aware computational routing. Emphasizing cryptographic isolation and dynamic resource taxation.
+<br>
+<code>[ MODULE_02 ]</code> <b>DISTRIBUTED TOPOLOGIES</b><br><br>
+<i>Zero-trust IPC pipelines • Decentralized swarms • Hardware-aware computational routing</i><br>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🕸️ Contextual RAG Synthesis
-Developing structural retrieval algorithms that bypass traditional semantic limitations. Utilizing AST-aware knowledge graphs and vision-language forensic validation for high-fidelity data pipelines.
+<br>
+<code>[ MODULE_03 ]</code> <b>CONTEXTUAL SYNTHESIS</b><br><br>
+<i>AST-aware knowledge graphs • Structural retrieval algorithms • Vision-language forensics</i><br>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🛠️ Hardware Translation
-Bridging execution gaps through automated kernel translation (CUDA/ROCm), ensuring seamless mathematical operability across disparate silicon microarchitectures without refactoring overhead.
+<br>
+<code>[ MODULE_04 ]</code> <b>BARE-METAL OPTIMIZATION</b><br><br>
+<i>Kernel execution bridging • Cryptographic isolation • Dynamic memory taxation</i><br>
 
 </td>
 </tr>
@@ -60,36 +60,34 @@ Bridging execution gaps through automated kernel translation (CUDA/ROCm), ensuri
 <div align="center">
 
 <br>
-<h4 align="center">Deep Learning & AI Modeling</h4>
+<h4 align="center">AI & Modeling</h4>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Agentic_Frameworks-0F172A?style=for-the-badge&logo=openai&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vLLM-0EA5E9?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-0F172A?style=for-the-badge&logo=openai&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> 
 </p>
 
 <br>
-<h4 align="center">Systems & Core Languages</h4>
+<h4 align="center">Systems & Core Logic</h4>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ROCm-000000?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> &nbsp;&nbsp;
 </p>
 
 <br>
-<h4 align="center">Infrastructure & Databases</h4>
+<h4 align="center">Hardware Acceleration & Infrastructure</h4>
 <br>
 <p align="center">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=black" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
 </p>
 
 </div>
@@ -100,18 +98,15 @@ Bridging execution gaps through automated kernel translation (CUDA/ROCm), ensuri
 
 <div align="center">
 
-<!-- GitHub Stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu-ogdev&show_icons=true&hide_border=true&bg_color=07090F&title_color=0EA5E9&icon_color=EC4899&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-ogdev&layout=compact&hide_border=true&bg_color=07090F&title_color=0EA5E9&text_color=94A3B8&langs_count=8" alt="Top Languages" />
 
 <br>
 
-<!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-ogdev&hide_border=true&background=07090F&ring=0EA5E9&fire=EC4899&currStreakLabel=6366F1&currStreakNum=E2E8F0&sideLabels=94A3B8&sideNums=E2E8F0&dates=94A3B8" alt="GitHub Streak" />
 
 <br>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-ogdev&bg_color=07090F&color=94A3B8&line=6366F1&point=0EA5E9&hide_border=true&radius=8" alt="Contribution Graph" />
 
 </div>
@@ -121,7 +116,7 @@ Bridging execution gaps through automated kernel translation (CUDA/ROCm), ensuri
 ### ▎Live Operations Log
 
 <div align="center">
-<code>▓▒░ STREAMING LATEST WORKFLOWS ░▒▓</code>
+<code>▓▒░ SYNCHRONIZING RECENT COMMITS ░▒▓</code>
 </div>
 
 <br>
@@ -131,7 +126,7 @@ Bridging execution gaps through automated kernel translation (CUDA/ROCm), ensuri
 
 <br><br>
 
-## ◈ Establish Connection
+## ◈ Connect & Collaborate
 
 <div align="center">
 
@@ -147,17 +142,16 @@ Bridging execution gaps through automated kernel translation (CUDA/ROCm), ensuri
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=priyanshu-ogdev&label=System+Pings&color=6366F1&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=priyanshu-ogdev&label=Profile+Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
 <div align="center">
-  <!-- Interactive Contribution Snake Graphic -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" style="max-width: 850px;" />
 </div>
 
 <br>
 
-<sub><i>Determinism by design. System Online.</i></sub>
+<sub><i>Open to technical collaborations and AI research opportunities.</i></sub>
 
 </div>
