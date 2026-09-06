@@ -4,10 +4,11 @@
 
 <br><br>
 
-<p>
-  <img src="https://img.shields.io/badge/Status-Active_Research-0EA5E9?style=for-the-badge&labelColor=07090F" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Kolkata,_IN-6366F1?style=for-the-badge&labelColor=07090F" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Zero--Leakage_Edge_Architectures-EC4899?style=for-the-badge&labelColor=07090F" alt="Focus" />
+<!-- Upgraded Minimal Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Actively_Building-0EA5E9?style=for-the-badge&logo=git&logoColor=white&labelColor=07090F" alt="Status" />
+  <img src="https://img.shields.io/badge/Domain-AI_Infrastructure_%26_Security-EC4899?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=07090F" alt="Domain" />
+  <img src="https://img.shields.io/badge/Base_of_Operations-Kolkata,_IN-6366F1?style=for-the-badge&logo=location_on&logoColor=white&labelColor=07090F" alt="Location" />
 </p>
 
 </div>
@@ -16,54 +17,42 @@
 
 ## ◈ Operational Directives
 
-I am an AI Researcher and Security Architect focused on engineering secure, explainable, and resilient infrastructures. My work strictly enforces hardware-aware execution, zero-remote inference boundaries, and mathematically proven stability under production workloads.
-
-<br>
-
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<br>
-<b>01. Edge AI & Zero-Leakage Architecture</b><br>
-<hr>
-<i>On-device ML pipelines • Hardware-aware quantization • Secure air-gapped inference</i><br><br>
-Architecting native, zero-cloud execution models using INT8/FP16 limits and clamping to ensure strict privacy boundaries (e.g., GoPrivate, Ssense).
-
-</td>
-<td width="50%" valign="top">
-
-<br>
-<b>02. Advanced Retrieval & Agentic Systems</b><br>
-<hr>
-<i>AST-aware indexing • Multi-agent swarms • Deterministic state machines</i><br><br>
-Engineering robust LangGraph and multi-store RAG systems for cross-file dependency resolution and automated, human-in-the-loop workflows.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<br>
-<b>03. Reinforcement Learning & Simulation</b><br>
-<hr>
-<i>Adversarial Skill Embeddings • Mixture of Experts • Inverse Kinematics</i><br><br>
-Training continuous control policies and physics-driven spatial environments utilizing optimized PyTorch AMP loops on constrained silicon hardware.
-
-</td>
-<td width="50%" valign="top">
-
-<br>
-<b>04. Systems Engineering & Resilience</b><br>
-<hr>
-<i>Cryptographic isolation • Native daemons • Dynamic resource taxation</i><br><br>
-Building crash-resilient topologies with Rust/C++ and unified memory optimization to survive real-world failure modes and compute limits.
-
-</td>
-</tr>
-</table>
+  <p><i>Designing privacy-first, mathematically rigorous AI systems for the absolute edge.</i></p>
 </div>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <b>[01] ML Infrastructure & Deployment</b><br>
+      <sub>Architecting bare-metal SLM/LLM environments, parameter-efficient tuning, and hardware-aware quantization for consumer-grade silicon.</sub>
+      <br><br>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <b>[02] Sovereign AI & Security</b><br>
+      <sub>Enforcing zero-remote inference boundaries, cryptographic isolation, and privacy-preserving generative pipelines.</sub>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <b>[03] Agentic Systems & RAG</b><br>
+      <sub>Engineering multi-modal autonomous swarms, deterministic state-machines, and AST-aware retrieval topologies.</sub>
+      <br><br>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <b>[04] Continuous Control & RL</b><br>
+      <sub>Training adversarial skill embeddings, mixture-of-experts, and physics-driven spatial simulations.</sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
@@ -119,10 +108,11 @@ Building crash-resilient topologies with Rust/C++ and unified memory optimizatio
 
 ## ◈ Research Telemetry
 
+<!-- Fixed HTML Image Heights -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyanshu-ogdev&show_icons=true&hide_border=true&bg_color=07090F&title_color=0EA5E9&icon_color=EC4899&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-ogdev&layout=compact&hide_border=true&bg_color=07090F&title_color=0EA5E9&text_color=94A3B8&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshu-ogdev&show_icons=true&hide_border=true&bg_color=07090F&title_color=0EA5E9&icon_color=EC4899&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-ogdev&layout=compact&hide_border=true&bg_color=07090F&title_color=0EA5E9&text_color=94A3B8&langs_count=8" alt="Top Languages" />
 
 <br>
 
@@ -143,7 +133,7 @@ Building crash-resilient topologies with Rust/C++ and unified memory optimizatio
 
 <br><br>
 
-## ◈ Connect & Collaborate
+## ◈ Establish Connection
 
 <div align="center">
 
@@ -164,11 +154,11 @@ Building crash-resilient topologies with Rust/C++ and unified memory optimizatio
 <br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" style="max-width: 850px;" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="" width="100%" style="max-width: 850px;" />
 </div>
 
 <br>
 
-<sub><i>Open to technical collaborations, machine learning infrastructure roles, and advanced systems research opportunities.</i></sub>
+<sub><i>Open to opportunities in ML Infrastructure, Applied AI Research, and Systems Engineering.</i></sub>
 
 </div>
