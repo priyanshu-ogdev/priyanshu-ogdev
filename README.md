@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=PRIYANSHU+ROY;Senior+Research+Engineer" alt="Priyanshu Roy" />
+<!-- Pixelated Temporal Name Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=700&size=38&duration=1200&pause=250&color=38BDF8&center=true&vCenter=true&width=900&height=70&lines=PRIYANSHU+ROY;>_PRIYANSHU_ROY;PRIYANSHU.exe;PRIYANSHU+ROY" alt="Priyanshu Roy" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3600&pause=700&color=A5B4FC&center=true&vCenter=true&width=900&height=35&lines=Deep+RL+%7C+SLM+Fine-Tuning+%7C+Agentic+RAG+%7C+Bare-Metal+AI+Systems" alt="Specializations" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=3600&pause=700&color=A5B4FC&center=true&vCenter=true&width=900&height=35&lines=Deep+RL+%7C+SLM+Fine-Tuning+%7C+Agentic+RAG+%7C+Bare-Metal+AI+Systems" alt="Specializations" />
 
 <br />
 
 <pre>
-░▒▓██████████████████████████████████████████████████████████████████████████████▓▒░
-▓  SYSTEM ONLINE — DEEP RL • SLM FINETUNING • AGENTIC RAG • BARE-METAL AI  ▓
-░▒▓██████████████████████████████████████████████████████████████████████████████▓▒░
+▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚
+⚡ TEMPORAL SYNCHRONIZATION ALIGNED — SYSTEM SECURE ⚡
+▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚
 </pre>
 
 <br />
 
-<img src="https://img.shields.io/badge/Role-AI_Research_Engineer-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="Role" />
 <img src="https://img.shields.io/badge/Focus-Deep_RL_%26_SLM_Systems-6366F1?style=for-the-badge&labelColor=0F172A" alt="Focus" />
 <img src="https://img.shields.io/badge/Architecture-Distributed_Agentic_Systems-EC4899?style=for-the-badge&labelColor=0F172A" alt="Architecture" />
 <img src="https://img.shields.io/badge/Location-Kolkata,_India-64748B?style=for-the-badge&labelColor=0F172A" alt="Location" />
@@ -33,20 +33,21 @@ root@research-node:~$ ./load_research_profile.sh
 [ OK ] AST-aware RAG index synchronized
 [ OK ] Distributed agent swarm telemetry online
 [ OK ] Bare-metal inference runtime verified
+root@research-node:~$ executing main.rs...
 </pre>
 </div>
 
 ---
 
-### 📡 Research Focus
+### 📡 OPERATING PARAMETERS
 
 I engineer production-grade AI systems where mathematical rigor meets bare-metal execution. My work spans physically simulated reinforcement learning, fine-tuned small language models, AST-aware retrieval pipelines, distributed agentic systems, and neuro-evolutionary swarm architectures designed to operate under strict memory, latency, privacy, and reliability constraints.
 
-> **My engineering bias is simple:** Deterministic systems, measurable outcomes, zero-leakage boundaries, and architectures that survive real-world failure modes.
+> **Engineering Bias:** Deterministic systems, measurable outcomes, zero-leakage boundaries, and architectures that survive real-world failure modes.
 
 ---
 
-### ⚙️ Core Research Domains
+### ⚙️ CORE ARCHITECTURE
 
 | 🤖 Deep Reinforcement Learning & Robotics | 🧠 Small Language Model Architecture |
 | :--- | :--- |
@@ -60,12 +61,12 @@ I engineer production-grade AI systems where mathematical rigor meets bare-metal
 
 ---
 
-### 🚀 Selected High-Intensity Systems
+### 🚀 HIGH-INTENSITY SYSTEMS
 
-*Click on any system to expand the architectural details.*
+*Click on any system to expand the architectural payload.*
 
 <details>
-<summary><b>System 01 — RevExBot: Deep RL Architecture for Humanoid Control</b></summary>
+<summary><b>[ SYSTEM_01 ] — RevExBot: Deep RL Architecture for Humanoid Control</b></summary>
 
 <br>
 
@@ -78,7 +79,7 @@ I engineer production-grade AI systems where mathematical rigor meets bare-metal
 </details>
 
 <details>
-<summary><b>System 02 — Ssense: SLM Fine-Tuning & Bare-Metal Edge Intelligence</b></summary>
+<summary><b>[ SYSTEM_02 ] — Ssense: SLM Fine-Tuning & Bare-Metal Edge Intelligence</b></summary>
 
 <br>
 
@@ -91,11 +92,11 @@ I engineer production-grade AI systems where mathematical rigor meets bare-metal
 </details>
 
 <details>
-<summary><b>System 03 — Cognit AI: Sovereign Multi-Agent AST RAG System</b></summary>
+<summary><b>[ SYSTEM_03 ] — Cognit AI: Sovereign Multi-Agent AST RAG System</b></summary>
 
 <br>
 
-`Rust` `Tokio` `Axum` `Tree-sitter` `Docker` `HMAC-SHA256` `VS Code Extension`
+`Rust` `Tokio` `Axum` `Tree-sitter` `Docker` `HMAC-SHA256`
 
 > A decentralized multi-agent coding architecture built around a Rust control daemon, isolated Docker worker swarms, and AST-aware retrieval.
 
@@ -104,7 +105,7 @@ I engineer production-grade AI systems where mathematical rigor meets bare-metal
 </details>
 
 <details>
-<summary><b>System 04 — TradeJack: Neuro-Evolutionary Financial Swarm</b></summary>
+<summary><b>[ SYSTEM_04 ] — TradeJack: Neuro-Evolutionary Financial Swarm</b></summary>
 
 <br>
 
@@ -117,7 +118,7 @@ I engineer production-grade AI systems where mathematical rigor meets bare-metal
 </details>
 
 <details>
-<summary><b>System 05 — Krisna: Agentic Generative Data-Forge</b></summary>
+<summary><b>[ SYSTEM_05 ] — Krisna: Agentic Generative Data-Forge</b></summary>
 
 <br>
 
@@ -130,7 +131,7 @@ I engineer production-grade AI systems where mathematical rigor meets bare-metal
 </details>
 
 <details>
-<summary><b>System 06 — CivicLink: Stateful Agentic VLM Pipeline</b></summary>
+<summary><b>[ SYSTEM_06 ] — CivicLink: Stateful Agentic VLM Pipeline</b></summary>
 
 <br>
 
@@ -144,30 +145,14 @@ I engineer production-grade AI systems where mathematical rigor meets bare-metal
 
 ---
 
-### 🛡️ Technical Arsenal
+### ⚡ LIVE TELEMETRY
 
-| Category | Technologies & Frameworks |
-| :--- | :--- |
-| **Research & Modeling** | PyTorch, PPO/GAIL/AMP, Adversarial Skill Embeddings, MoE, Inverse Kinematics, Bayesian Decision Systems |
-| **LLM & RAG Systems** | Qwen/Llama, rsLoRA/SimPO/QLoRA, Unsloth, vLLM, GBNF constraints, Tree-sitter AST, GraphRAG, FAISS/pgvector |
-| **Systems & Infra** | Rust, Tokio, Axum, Docker, CUDA, GPUDirect Storage, NVLink, SQLite WAL, PostgreSQL, Redis, FastAPI |
-| **Security & Reliability** | HMAC-SHA256 IPC, Zero-trust messaging, Cryptographic audit trails, Circuit breakers, Watchdog timers |
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-### 📜 Operating Principles
-
-> **Zero-Remote Inference by Default:** Intelligence should execute where data originates. Privacy is an architectural property, not a policy banner.
-> 
-> **Mathematical Rigor Over Obscurity:** Security, stability, and correctness must come from provable structure, not hidden implementation details.
-> 
-> **Crash-Resilience Over Feature Velocity:** A system that cannot recover from failure is not production-ready, regardless of benchmark performance.
-> 
-> **Explainability as an Engineering Constraint:** If an autonomous system cannot justify its decision pathway, it is not ready for real-world deployment.
-
----
-
-### 📊 GitHub Telemetry
+### 📊 GLOBAL STATS
 
 <div align="center">
 
@@ -186,7 +171,7 @@ I engineer production-grade AI systems where mathematical rigor meets bare-metal
 
 ---
 
-### 🔌 Connect
+### 🔌 ESTABLISH CONNECTION
 
 <div align="center">
 
