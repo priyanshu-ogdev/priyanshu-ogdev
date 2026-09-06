@@ -116,9 +116,11 @@ I am an AI Researcher and Systems Architect focused on engineering secure, high-
 
 <img src="./assets/streak.svg" alt="GitHub Streak" />
 
-<br>
+<br><br>
+<code>▓▒░ [ ACTIVITY MATRIX ] ░▒▓</code>
+<br><br>
 
-<img src="./assets/contributions.svg" alt="Contribution Graph" />
+<img src="https://raw.githubusercontent.com/priyanshu-ogdev/priyanshu-ogdev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" style="max-width: 850px;" />
 
 </div>
 
@@ -150,12 +152,6 @@ I am an AI Researcher and Systems Architect focused on engineering secure, high-
 <img src="https://komarev.com/ghpvc/?username=priyanshu-ogdev&label=Profile+Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/priyanshu-ogdev/priyanshu-ogdev/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" style="max-width: 850px;" />
-</div>
-
-<br>
 
 <sub><i>Open to opportunities in ML Infrastructure, Applied AI Research, and Systems Engineering.</i></sub>
 
