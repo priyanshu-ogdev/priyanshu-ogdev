@@ -2,13 +2,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+    
+    # THIS IS THE MISSING PIECE - It allows the bot to push to your repo
+    permissions:
+      contents: write
 
     steps:
       - name: Generate GitHub Contributions Snake
@@ -19,8 +23,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Bumped to v4 to clear the Node.js warning
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
