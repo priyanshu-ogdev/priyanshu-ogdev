@@ -4,36 +4,34 @@
 
 <br><br>
 
-<!-- Upgraded Minimal Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Actively_Building-0EA5E9?style=for-the-badge&logo=git&logoColor=white&labelColor=07090F" alt="Status" />
-  <img src="https://img.shields.io/badge/Domain-AI_Infrastructure_%26_Security-EC4899?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=07090F" alt="Domain" />
-  <img src="https://img.shields.io/badge/Base_of_Operations-Kolkata,_IN-6366F1?style=for-the-badge&logo=location_on&logoColor=white&labelColor=07090F" alt="Location" />
+  <img src="https://img.shields.io/badge/Role-AI/ML_Engineer-0EA5E9?style=for-the-badge&logo=git&logoColor=white&labelColor=07090F" alt="Role" />
+  <img src="https://img.shields.io/badge/Domain-Machine_Learning_%26_Systems-EC4899?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=07090F" alt="Domain" />
+  <img src="https://img.shields.io/badge/Location-Kolkata,_IN-6366F1?style=for-the-badge&logo=location_on&logoColor=white&labelColor=07090F" alt="Location" />
 </p>
 
 </div>
 
 <br><br>
 
-## ◈ Operational Directives
+## ◈ Professional Summary & Core Competencies
 
-<div align="center">
-  <p><i>Designing privacy-first, mathematically rigorous AI systems for the absolute edge.</i></p>
-</div>
+I am an AI Researcher and Systems Architect focused on engineering secure, high-performance infrastructure. My work emphasizes hardware-aware execution, privacy-first deployment models, and mathematically proven stability for production-grade machine learning pipelines.
 
 <br>
 
-<table align="center" width="100%">
+<div align="center">
+<table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
       <br>
       <b>[01] ML Infrastructure & Deployment</b><br>
-      <sub>Architecting bare-metal SLM/LLM environments, parameter-efficient tuning, and hardware-aware quantization for consumer-grade silicon.</sub>
+      <sub>Architecting bare-metal SLM/LLM environments, parameter-efficient tuning, and hardware-aware quantization for enterprise deployment.</sub>
       <br><br>
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <b>[02] Sovereign AI & Security</b><br>
+      <b>[02] Security & Privacy-First AI</b><br>
       <sub>Enforcing zero-remote inference boundaries, cryptographic isolation, and privacy-preserving generative pipelines.</sub>
       <br><br>
     </td>
@@ -41,22 +39,23 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <br>
-      <b>[03] Agentic Systems & RAG</b><br>
+      <b>[03] Autonomous Systems (RAG)</b><br>
       <sub>Engineering multi-modal autonomous swarms, deterministic state-machines, and AST-aware retrieval topologies.</sub>
       <br><br>
     </td>
     <td width="50%" align="center" valign="top">
       <br>
       <b>[04] Continuous Control & RL</b><br>
-      <sub>Training adversarial skill embeddings, mixture-of-experts, and physics-driven spatial simulations.</sub>
+      <sub>Training adversarial skill embeddings, mixture-of-experts models, and physics-driven spatial simulations.</sub>
       <br><br>
     </td>
   </tr>
 </table>
+</div>
 
 <br><br>
 
-## ◈ Technical Ecosystem
+## ◈ Technical Arsenal
 
 <div align="center">
 
@@ -88,7 +87,7 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 <br>
@@ -106,13 +105,13 @@
 
 <br><br>
 
-## ◈ Research Telemetry
+## ◈ GitHub Analytics
 
-<!-- Fixed HTML Image Heights -->
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=priyanshu-ogdev&show_icons=true&hide_border=true&bg_color=07090F&title_color=0EA5E9&icon_color=EC4899&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-ogdev&layout=compact&hide_border=true&bg_color=07090F&title_color=0EA5E9&text_color=94A3B8&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshu-ogdev&show_icons=true&hide_border=true&bg_color=07090F&title_color=0EA5E9&icon_color=EC4899&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-ogdev&layout=compact&hide_border=true&bg_color=07090F&title_color=0EA5E9&text_color=94A3B8&langs_count=8" alt="Top Languages" />
 
 <br>
 
@@ -133,7 +132,7 @@
 
 <br><br>
 
-## ◈ Establish Connection
+## ◈ Contact & Links
 
 <div align="center">
 
